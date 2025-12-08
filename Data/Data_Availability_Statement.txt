@@ -1,0 +1,22 @@
+Data Availability Statement:
+
+Information on the NASA CPEX-CV 2022 campaign is available via Zawislak et al. (2022) and Nowottnick et al. (2024), the former of which includes a link to the main CPEX-CV campaign webpage. Direct links to the CPEX-CV instrument data, including the APR-3, DAWN, and dropsonde data used for the analysis, are also found through Zawislak et al. (2022). The CPEX-CV instrument data is freely accessible upon registering at the NASA EarthData repository.
+ 
+TPW data used in the analysis is publicly available via Cooperative Institute for Meteorological Satellite Studies (2025), as is the IMERG and TIMPS data used for analysis through the Goddard Earth Sciences Data and Information Services Center (Huffman et al., 2019) and Zenodo (Russell, 2022), respectively. ECMWF ERA5 component wind data used for manual lower tropospheric dynamical convergence calculations and analysis is publicly available through the Copernicus Climate Change Service Climate Data Store (Hersbach et al., 2018). The Sounding/Hodograph Analysis and Research Program in Python (SHARPpy) open-source meteorological package used to calculate PBL depth and wind shear from CPEX-CV in situ observations is publicly available via Blumberg et al. (2017).
+
+
+References:
+
+Blumberg, W. G., Halbert, K. T., Supinie, T. A., Marsh, P. T., Thompson, R. L., & Hart, J. A. (2017). SHARPpy: An open-source sounding analysis toolkit for the atmospheric sciences [Software]. Bulletin of the American Meteorological Society, 98, 1625–1636. https://doi.org/10.1175/bams-d-15-00309.1
+
+Cooperative Institute for Meteorological Satellite Studies (2025). SSMI/SSMIS/AMSR2-derived MIMIC-TPW (Morphed Integrated Microwave Imagery at CIMSS - Total Precipitable Water) Global Satellite Imagery Version 2 [Dataset]. Cooperative Institute for Meteorological Satellite Studies (CIMSS). https://bin.ssec.wisc.edu/pub/mtpw2/data/
+
+Hersbach, H., Bell, B., Berrisford, P., Biavati, G., Horányi, A., Muñoz Sabater, J., et al. (2018). ERA5 hourly data on pressure levels from 1979 to present [Dataset]. Copernicus Climate Change Service (C3S) Climate Data Store (CDS). https://doi.org/10.24381/cds.bd0915c6
+
+Huffman, G. J., Stocker, E. F., Bolvin, D. T., Nelkin E. J., & Tan J. (2019). GPM IMERG Final Precipitation 13 Half Hourly 0.1 degree x 0.1 degree V07 [Dataset]. Goddard Earth Sciences Data and Information Services Center (GES DISC). https://doi.org/10.5067/GPM/IMERG/3B-HH/07
+
+Nowottnick, E. P., Rowe, A. K., Nehrir, A. R., Zawislak, J. A., Piña, A. J., McCarty, W., et al. (2024). Dust, convection, winds, and waves: the 2022 NASA CPEX-CV campaign. Bulletin of the American Meteorological Society, 105. https://doi.org/10.1175/bams-d-23-0201.1
+
+Russell, J. (2022). Tracked IMERG Mesoscale Precipitation Systems (TIMPS) [Dataset]. Zenodo. https://doi.org/10.5281/zenodo.5781881
+
+Zawislak, J., Nowottnick, N., & Nehrir, A. (2022). Convective Processes Experiment - Cabo Verde (CPEX-CV) field campaign collection [Dataset]. NASA EOSDIS Global Hydrometeorology Resource Center Distributed Active Archive Center. https://doi.org/10.5067/CPEXCV/DATA101
